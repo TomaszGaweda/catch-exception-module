@@ -1,10 +1,12 @@
+syntax: glob
 # Log file
 *.log
 
 # configuration files, target, etc.
-.idea/
+.idea
+.idea/*.xml
 *.iml
-target/
+target
 
 dependency-reduced-pom.xml
 
