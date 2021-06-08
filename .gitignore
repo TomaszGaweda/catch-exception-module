@@ -2,7 +2,7 @@
 *.log
 
 # configuration files, target, etc.
-.idea
+.idea/
 *.iml
 target/
 
